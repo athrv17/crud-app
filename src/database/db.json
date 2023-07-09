@@ -1,0 +1,18 @@
+{
+  "users": [
+    {
+      "name": "Atharva Mahajan",
+      "username": "athu",
+      "email": "atharvamahajan17@gmail.com",
+      "phone": "8305910083",
+      "id": 1
+    },
+    {
+      "name": "Sanjay Mahajan",
+      "username": "smturnsky",
+      "email": "smturnsky@gmail.com",
+      "phone": "9424025888",
+      "id": 2
+    }
+  ]
+}
